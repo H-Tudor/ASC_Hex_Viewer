@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASC_Hex_Viewer", "ASC_Hex_Viewer.csproj", "{75C8769F-7AA4-4130-BD1F-EA4A0EF1CBDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C8769F-7AA4-4130-BD1F-EA4A0EF1CBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C8769F-7AA4-4130-BD1F-EA4A0EF1CBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C8769F-7AA4-4130-BD1F-EA4A0EF1CBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C8769F-7AA4-4130-BD1F-EA4A0EF1CBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774BF5D9-F543-40AB-B4CE-84077E2E1E7F}
+	EndGlobalSection
+EndGlobal
